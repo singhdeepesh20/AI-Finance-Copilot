@@ -7,4 +7,5 @@ faiss-cpu
 sentence-transformers
 unstructured
 yfinance
+tavily-python
 requests
