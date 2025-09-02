@@ -15,3 +15,48 @@ Built with Streamlit for a clean and interactive UI.
 * Risk assessment based on recent events
 
 * Streamlit UI with one-click analysis
+
+📊 Usage
+
+* Enter a stock ticker symbol (e.g., TSLA, AAPL, MSFT)
+
+* Click "🔍 Analyze Stock"
+
+* Get AI-powered insights:
+
+* Stock sentiment (Positive/Neutral/Negative)
+
+* Key news highlights
+
+* Investment suggestions (short-term & long-term)
+
+* Risk factors
+
+🛠️ Tech Stack
+
+* Python 3.10+
+
+* Streamlit – UI framework
+
+* Groq LLM (LLaMA3) – AI analysis
+
+* Tavily API – Real-time stock news search
+
+
+⚡ Future Enhancements
+
+* Add sentiment visualization (Pie/Bar chart with Plotly)
+
+* Show historical stock price trends
+
+* Add portfolio analysis (track multiple stocks)
+
+* Multilingual support for stock insights
+
+
+
+👨‍💻 Author
+
+Deepesh Singh
+
+otly (optional) – for sentiment visualization
