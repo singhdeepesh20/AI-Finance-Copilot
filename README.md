@@ -1,5 +1,5 @@
 # AI-Finance-Copilot
-An AI-powered stock analysis tool that combines Groq’s lightning-fast LLMs with Tavily real-time web search to deliver market sentiment, insights, and investment suggestions.
+An AI-Finance-Copilot analysis tool that combines Groq’s lightning-fast LLMs with Tavily real-time web search to deliver market sentiment, insights, and investment suggestions.
 Built with Streamlit for a clean and interactive UI.
 
 🚀 Features
